@@ -64,3 +64,37 @@ The notebook covers the following topics:
 - Saving the data to a CSV file
 
 [Link to the notebook](https://github.com/louispaulet/ETL_tests/blob/master/ETL_on_french_painters.ipynb)
+
+## Usage
+
+To use the notebooks, follow these steps:
+
+1. Clone the repository to your local machine or open it in a Jupyter environment like Google Colab.
+2. Install the required libraries mentioned in each notebook. You can use `!pip install` commands for easy installation.
+3. Run the cells in the notebooks sequentially to see the outputs.
+
+## Requirements
+
+- Python 3.x
+- Jupyter Notebook
+- Hugging Face Transformers
+- Newspaper3k
+- NLTK
+- pandas
+- rdflib
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or create an issue for any improvements or bug fixes.
+
+## Acknowledgements
+
+- [Hugging Face Transformers](https://github.com/huggingface/transformers)
+- [Newspaper3k](https://github.com/codelucas/newspaper)
+- [NLTK](https://github.com/nltk/nltk)
+- [pandas](https://github.com/pandas-dev/pandas)
+- [rdflib](https://github.com/RDFLib/rdflib)
